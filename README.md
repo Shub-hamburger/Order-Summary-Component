@@ -5,10 +5,10 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ### Screenshot
 
 - Desktop View
-![Desktop View](/design/desktop-design.jpg)
+    -![Desktop View](/design/desktop-design.jpg)
 
 - Mobile View
-![Mobile View](/design/mobile-design.jpg)
+    -![Mobile View](/design/mobile-design.jpg)
 
 ### Links
 
