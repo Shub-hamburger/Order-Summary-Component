@@ -7,8 +7,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Repository](https://github.com/Shub-hamburger/Order-Summary-Component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repository here](https://github.com/Shub-hamburger/Order-Summary-Component)
+- Live Site URL: [Live here](https://shub-hamburger.github.io/Order-Summary-Component/)
 
 
 
